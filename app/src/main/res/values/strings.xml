@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Winido</string>
+    <string name="loading">Loading...</string>
+
+    <string name="lbl_submit">Submit</string>
+    <string name="lbl_enter_invite_code">Enter Invite Code</string>
+    <string name="lbl_enter_otp">Enter OTP!</string>
+    <string name="lbl_enter_mobile">Enter Mobile!</string>
+
+    <string name="title_activity_dash_main">DashMainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

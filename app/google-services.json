@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "246790687270",
+    "project_id": "firebase-winido"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246790687270:android:d13c33281df05043",
+        "android_client_info": {
+          "package_name": "com.winido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246790687270-ool5um17q2d5cm84i2tovbviap58st5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winido",
+            "certificate_hash": "c1f46e7d9c35d92d1d57c869741260f24b5d2915"
+          }
+        },
+        {
+          "client_id": "246790687270-jmjbfm2vbbke6c79e7kuh6sg2kospnae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz3Q44ZDrpulNlAlS49V87-XmrOnl46AI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246790687270:android:a222cdbe59e18090",
+        "android_client_info": {
+          "package_name": "com.winido.iotbutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246790687270-fmdf3omqc3b0rm978kedt497mevp4vhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winido.iotbutton",
+            "certificate_hash": "c1f46e7d9c35d92d1d57c869741260f24b5d2915"
+          }
+        },
+        {
+          "client_id": "246790687270-jmjbfm2vbbke6c79e7kuh6sg2kospnae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz3Q44ZDrpulNlAlS49V87-XmrOnl46AI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246790687270:android:3a3b200255c335b9",
+        "android_client_info": {
+          "package_name": "com.winido.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246790687270-hcluqaa8h964bpl3ut5vccm20o4kp0p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winido.app",
+            "certificate_hash": "c1f46e7d9c35d92d1d57c869741260f24b5d2915"
+          }
+        },
+        {
+          "client_id": "246790687270-jmjbfm2vbbke6c79e7kuh6sg2kospnae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz3Q44ZDrpulNlAlS49V87-XmrOnl46AI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

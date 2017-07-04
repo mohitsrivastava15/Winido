@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/editTxt_inputOtp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangle_border"
+        android:fontFamily="sans-serif-light"
+        android:layout_centerInParent="true"
+        android:hint="@string/lbl_enter_otp"
+        android:textColorHint="@color/grey"
+        android:inputType="number"
+        android:maxLength="6"
+        android:padding="10dp"
+        android:textCursorDrawable="@null"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="14dp" />
+
+</LinearLayout>
